@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>Image Gallery</title>
+      <title>Shit</title>
       <link>https://cmitiisertvm.github.io/post/image-gallery/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
       
@@ -76,6 +76,15 @@ pectora summo.&lt;/p&gt;</description>
       <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 Hugo makes use of a variety of open source projects including:
  https://github.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://cmitiisertvm.github.io/homepage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cmitiisertvm.github.io/homepage/</guid>
+      <description></description>
     </item>
     
   </channel>
